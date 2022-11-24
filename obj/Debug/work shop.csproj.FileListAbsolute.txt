@@ -1,0 +1,13 @@
+D:\الصور\work shop\work shop\obj\Debug\work shop.csproj.AssemblyReference.cache
+D:\الصور\work shop\work shop\obj\Debug\work shop.csproj.SuggestedBindingRedirects.cache
+D:\الصور\work shop\work shop\obj\Debug\work_shop.AddMember.resources
+D:\الصور\work shop\work shop\obj\Debug\work_shop.Login.resources
+D:\الصور\work shop\work shop\obj\Debug\work_shop.MainForm.resources
+D:\الصور\work shop\work shop\obj\Debug\work_shop.Payment.resources
+D:\الصور\work shop\work shop\obj\Debug\work_shop.Properties.Resources.resources
+D:\الصور\work shop\work shop\obj\Debug\work_shop.UpdateDelete.resources
+D:\الصور\work shop\work shop\obj\Debug\work_shop.ViewMembers.resources
+D:\الصور\work shop\work shop\obj\Debug\work shop.csproj.GenerateResource.cache
+D:\الصور\work shop\work shop\obj\Debug\work shop.csproj.CoreCompileInputs.cache
+D:\الصور\work shop\work shop\obj\Debug\work shop.exe
+D:\الصور\work shop\work shop\obj\Debug\work shop.pdb

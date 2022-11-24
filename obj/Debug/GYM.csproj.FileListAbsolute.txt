@@ -1,0 +1,32 @@
+D:\الصور\work shop\work shop\bin\Debug\work shop.exe.config
+D:\الصور\work shop\work shop\bin\Debug\work shop.exe
+D:\الصور\work shop\work shop\bin\Debug\work shop.pdb
+D:\الصور\work shop\work shop\obj\Debug\GYM.csproj.AssemblyReference.cache
+D:\الصور\work shop\work shop\obj\Debug\GYM.csproj.SuggestedBindingRedirects.cache
+D:\الصور\work shop\work shop\obj\Debug\work_shop.Login.resources
+D:\الصور\work shop\work shop\obj\Debug\work_shop.MainForm.resources
+D:\الصور\work shop\work shop\obj\Debug\work_shop.Properties.Resources.resources
+D:\الصور\work shop\work shop\obj\Debug\GYM.csproj.GenerateResource.cache
+D:\الصور\work shop\work shop\obj\Debug\GYM.csproj.CoreCompileInputs.cache
+D:\الصور\work shop\work shop\obj\Debug\work shop.exe
+D:\الصور\work shop\work shop\obj\Debug\work shop.pdb
+D:\الصور\work shop\work shop\obj\Debug\work_shop.AddMember.resources
+D:\الصور\work shop\work shop\obj\Debug\work_shop.Payment.resources
+D:\الصور\work shop\work shop\obj\Debug\work_shop.UpdateDelete.resources
+D:\الصور\work shop\work shop\obj\Debug\work_shop.ViewMembers.resources
+D:\الصور\GYM\GYM\obj\Debug\GYM.csproj.AssemblyReference.cache
+D:\الصور\GYM\GYM\obj\Debug\GYM.csproj.SuggestedBindingRedirects.cache
+D:\الصور\GYM\GYM\obj\Debug\work_shop.AddMember.resources
+D:\الصور\GYM\GYM\obj\Debug\work_shop.Login.resources
+D:\الصور\GYM\GYM\obj\Debug\work_shop.MainForm.resources
+D:\الصور\GYM\GYM\obj\Debug\work_shop.Payment.resources
+D:\الصور\GYM\GYM\obj\Debug\work_shop.Properties.Resources.resources
+D:\الصور\GYM\GYM\obj\Debug\work_shop.UpdateDelete.resources
+D:\الصور\GYM\GYM\obj\Debug\GYM.csproj.GenerateResource.cache
+D:\الصور\GYM\GYM\obj\Debug\GYM.csproj.CoreCompileInputs.cache
+D:\الصور\GYM\GYM\obj\Debug\work shop.exe
+D:\الصور\GYM\GYM\obj\Debug\work shop.pdb
+D:\الصور\GYM\GYM\bin\Debug\work shop.exe.config
+D:\الصور\GYM\GYM\bin\Debug\work shop.exe
+D:\الصور\GYM\GYM\bin\Debug\work shop.pdb
+D:\الصور\GYM\GYM\obj\Debug\GYM.ViewMembers.resources
